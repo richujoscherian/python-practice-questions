@@ -11,9 +11,9 @@ for i in dict1:#normal iteration through keys
 for i in dict1.keys():  #iteration through keys using key() function
     print(i)
 
-for i in dict1.values():  #
+for i in dict1.values():  #iteration using value() function
     print(i)
 
 
-for i in dict1.items():
+for i in dict1.items():#using item() function
     print(i)
